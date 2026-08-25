@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/Remote.Agent/Remote.Agent.csproj" />
+  <Project Path="src/Remote.Protocol/Remote.Protocol.csproj" />
+  <Project Path="src/Remote.Signaling/Remote.Signaling.csproj" />
+  <Project Path="src/Remote.Viewer/Remote.Viewer.csproj" Id="56127d52-685f-4075-8645-f8b16a518499" />
+</Solution>
